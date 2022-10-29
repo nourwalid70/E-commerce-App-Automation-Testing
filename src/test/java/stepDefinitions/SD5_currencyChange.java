@@ -6,7 +6,7 @@ import commercePages.P5_currencyChange;
 import org.junit.Assert;
 
 
-public class SD5_currencyChange {
+public class SD5_currencyChange { // after searching about camera, there is only one element in home page
     P5_currencyChange currency = new P5_currencyChange();
 
     @And("user click on the list of currencies.")
